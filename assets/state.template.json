@@ -1,0 +1,14 @@
+{
+  "project_name": "{{PROJECT_NAME}}",
+  "topic_name": "{{TOPIC_NAME}}",
+  "code_path": "{{CODE_PATH}}",
+  "vault_topic_path": "{{OBSIDIAN_TOPIC_PATH}}",
+  "repo_url": "{{REPO_URL}}",
+  "conda_env": "{{ENV_NAME}}",
+  "level": "{{LEVEL}}",
+  "roadmap": "{{ROADMAP}}",
+  "current_stage": "v0",
+  "current_goal": "Initialize the project and build the smallest runnable application.",
+  "next_task": "Create the conda environment, install the first dependencies, and implement the first minimal health check.",
+  "last_session": "{{NOW}}"
+}
